@@ -1,0 +1,46 @@
+body{
+background-image:url("Background image.jpg");
+background-color: #cccccc;
+color:black;
+font-family: Arial, Helvitica, sans-serif;
+font-size:16px;
+line-height:1.6em;
+margin:0;
+width:100%;
+}
+
+#header{
+height:20vh;
+text-align:center;
+}
+#section{
+height:40vh;
+margin-left:20px;
+}
+#section h1{
+color:#990000;
+font-size:28px;
+padding-top:5px;
+}
+#section h1 span{
+color:orange;
+}
+img{
+height:125px;
+border-radius:15px;
+}
+.main{
+position:fixed;
+right:550px;
+top:180px;
+}
+.main h1{
+text-transform:uppercase;
+}
+
+.p{
+margin-left:20px;
+}
+.p p{
+color:green;
+}
